@@ -83,7 +83,11 @@ Durante mi formación académica he participado activamente en proyectos estudia
 
 ## Hobbies:  
 
-Soy una entusiasta del senderismo que nunca rechaza una aventura al aire libre, disfruto entrenar zumba y cantar karaoke a todo pulmón. Cuando no estoy sumergida en líneas de código, me encontrarás inmersa en un buen libro o compartiendo ricas comidas y momentos especiales con mi familia y amigos.
+Soy una entusiasta del senderismo que nunca rechaza una aventura al aire libre, disfruto entrenar zumba y cantar karaoke a todo pulmón. Cuando no estoy sumergida en líneas de código, me encontrarás inmersa en un buen libro o compartiendo ricas comidas y momentos especiales con mi familia y amigos. <br><br><br>
+
+**Estoy entusiasmada por aprender más sobre automatización de pruebas y cómo integrar esta práctica en el desarrollo de software para mejorar la calidad y la eficiencia del proceso. Estoy segura de que este programa me proporcionará las habilidades y el conocimiento necesarios para destacarme en este campo en constante evolución.**  
+
+**_¡Estoy lista para sumergirme en este desafío y aprovechar al máximo esta gran oportunidad de crecimiento y desarrollo profesional!_**
 
 
 
