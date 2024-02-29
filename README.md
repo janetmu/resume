@@ -49,18 +49,26 @@ Durante mi formación académica he participado activamente en proyectos estudia
 
 
 
-**Tienda Virtual**
-Sistema de información que soporta la gestión de una tienda virtual o emprendimiento local y mejora sus procesos. Tiene dos perfiles (cliente y administrador), cada uno con diferentes funcionalidades.
-***Lenguaje:*** *JavaScript*
-***Frontend:*** *Html - Css - React*
-***Backend:*** *Node - Express - MongoDB*
-***Otros:*** *Postman - Git - Github*
+**Sistema de Gestión de Ingresos y Gastos**
+Aplicativo web para gestionar los ingresos y egresos de una empresa. Tiene dos perfiles (empleado y administrador), cada uno con diferentes funcionalidades.
+***Lenguaje:*** *Java*  
+***Frontend:*** *Html - Bootstrap*  
+***Backend:*** *Spring Boot - Postgres*  
+***Otros:*** *Postman - Git*
 
 [![Alt text](https://img.youtube.com/vi/n4saBrxfiOE/0.jpg)](https://www.youtube.com/watch?v=n4saBrxfiOE)
 
 
 
 
+**Tienda Virtual**
+Sistema de información que soporta la gestión de una tienda virtual o emprendimiento local y mejora sus procesos. Tiene dos perfiles (cliente y administrador), cada uno con diferentes funcionalidades.
+***Lenguaje:*** *JavaScript*  
+***Frontend:*** *Html - Css - React*  
+***Backend:*** *Node - Express - MongoDB*  
+***Otros:*** *Postman - Git - Github*
+
+[![Alt text](https://img.youtube.com/vi/7MG2gOEZmHI/0.jpg)](https://www.youtube.com/watch?v=7MG2gOEZmHI)
 
 
 
