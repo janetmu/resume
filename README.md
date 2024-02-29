@@ -22,24 +22,21 @@ Mi punto fuerte radica en mi capacidad de adaptación. Me destaco por mi orienta
 Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, back-end y gestión de bases de datos:
 
 <p> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>   
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></a>   
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-
-
-
 
 
 
@@ -49,48 +46,36 @@ Durante mi formación académica he participado activamente en proyectos estudia
 
 
 
+[![Alt text](https://img.youtube.com/vi/n4saBrxfiOE/0.jpg)](https://www.youtube.com/watch?v=n4saBrxfiOE)
 **Sistema de Gestión de Ingresos y Gastos**
-Aplicativo web para gestionar los ingresos y egresos de una empresa. Tiene dos perfiles (empleado y administrador), cada uno con diferentes funcionalidades.  
 ***Lenguaje:*** *Java*  
 ***Frontend:*** *Html - Bootstrap*  
 ***Backend:*** *Spring Boot - Postgres*  
-***Otros:*** *Postman - Git*
+***Otros:*** *Postman - Git*  
 
-[![Alt text](https://img.youtube.com/vi/n4saBrxfiOE/0.jpg)](https://www.youtube.com/watch?v=n4saBrxfiOE)
-
-
-
-
+[![Alt text](https://img.youtube.com/vi/7MG2gOEZmHI/0.jpg)](https://www.youtube.com/watch?v=7MG2gOEZmHI)
 **Tienda Virtual**
-Sistema de información que soporta la gestión de una tienda virtual o emprendimiento local y mejora sus procesos. Tiene dos perfiles (cliente y administrador), cada uno con diferentes funcionalidades.  
 ***Lenguaje:*** *JavaScript*  
 ***Frontend:*** *Html - Css - React*  
 ***Backend:*** *Node - Express - MongoDB*  
-***Otros:*** *Postman - Git - Github*
-
-[![Alt text](https://img.youtube.com/vi/7MG2gOEZmHI/0.jpg)](https://www.youtube.com/watch?v=7MG2gOEZmHI)
-
-
-
-**Organización de Equipos y Colaboradores**
-Aplicación responsive para la administración de equipos y colaboradores de una organización.  
-***Lenguaje:*** *JavaScript*  
-***Frontend:*** *Html - Css - React*  
-***Otros:*** *Git - Github*
+***Otros:*** *Postman - Git - Github*  
 
 [![Alt text](https://img.youtube.com/vi/Ya1xwSibBi8/0.jpg)](https://www.youtube.com/watch?v=Ya1xwSibBi8)
+**Organización de Equipos y Colaboradores**
+***Lenguaje:*** *JavaScript*  
+***Frontend:*** *Html - Css - React*  
+***Otros:*** *Git - Github*  
 
-
-
+[![Alt text](https://img.youtube.com/vi/Vpt-XFSh_Yo/0.jpg)](https://www.youtube.com/watch?v=Vpt-XFSh_Yo)
 **Portafolio Personal**  
 ***Lenguaje:*** *JavaScript*  
 ***Frontend:*** *Html - Css - React*  
 ***Otros:*** *Git - Github*
 
-[![Alt text](https://img.youtube.com/vi/Vpt-XFSh_Yo/0.jpg)](https://www.youtube.com/watch?v=Vpt-XFSh_Yo)
 
+## Hobbies  
 
-
+Soy una entusiasta del senderismo que nunca rechaza una aventura al aire libre, disfruto entrenar zumba y cantar karaoke a todo pulmón. Cuando no estoy sumergida en líneas de código, me encontrarás inmersa en un buen libro o compartiendo ricas comidas y momentos especiales con mi familia y amigos.
 
 
 
