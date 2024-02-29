@@ -9,13 +9,22 @@
 
 ### Desarrolladora de Software :colombia: <br><br><br> 
 
-## Sobre mi
+## Sobre mi:
 
 En el año 2021, decidí dar un giro radical en mi carrera profesional. Dejé atrás los números y los registros contables para embarcarme en una emocionante nueva aventura: el mundo de la programación. Este cambio no solo representó una transformación personal, sino también una pasión renovada por la tecnología y su capacidad para impactar positivamente la vida de las personas, creando soluciones tecnológicas innovadoras y de calidad, que proporcionen herramientas y servicios que hagan sus vidas más cómodas, eficientes y productivas.
 
 Mi punto fuerte radica en mi capacidad de adaptación. Me destaco por mi orientación al resultado y mi compromiso con la excelencia en cada tarea que emprendo además mi enfoque en la autogestión, la resolución de problemas y la creatividad me permite abordar los desafíos con una mente abierta y encontrar soluciones innovadoras.<br><br><br>
 
-## Tecnologías
+## Conectemos:
+
+<p>
+<a href="https://linkedin.com/in/janet-marulanda-usma-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janet-marulanda-usma-dev" height="30" width="40" /></a>
+<a href="https://fb.com/janetmu76" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janetmu76" height="30" width="40" /></a>
+<a href="https://instagram.com/janet_marulanda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janet_marulanda" height="30" width="40" /></a>
+<a href="https://discord.gg/janet_marulanda_usma" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="janet_marulanda_usma" height="30" width="40" /></a>
+</p> <br><br><br>
+
+## Tecnologías:
 
 Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, back-end y gestión de bases de datos:
 
@@ -36,7 +45,7 @@ Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
 </p> <br><br><br>
 
-## Proyectos
+## Proyectos:
 
 Durante mi formación académica he participado activamente en proyectos estudiantiles que han sido una oportunidad invaluable para aplicar mis conocimientos teóricos en un entorno práctico, desarrollar habilidades técnicas y de trabajo en equipo, y enfrentar desafíos reales de desarrollo de software. A través de estas experiencias, he adquirido una comprensión profunda de los procesos de desarrollo y he demostrado mi capacidad para trabajar de manera efectiva en equipo para lograr objetivos comunes. Estoy segura de que estas experiencias me han preparado adecuadamente para asumir roles en el mundo laboral y estoy emocionada por aplicar mis habilidades y conocimientos en un entorno profesional. <br><br>
 
@@ -70,7 +79,7 @@ Durante mi formación académica he participado activamente en proyectos estudia
 * ***Frontend:*** *Html - Css - React*  
 * ***Otros:*** *Git - Github* <br><br><br>
 
-## Hobbies  
+## Hobbies:  
 
 Soy una entusiasta del senderismo que nunca rechaza una aventura al aire libre, disfruto entrenar zumba y cantar karaoke a todo pulmón. Cuando no estoy sumergida en líneas de código, me encontrarás inmersa en un buen libro o compartiendo ricas comidas y momentos especiales con mi familia y amigos.
 
