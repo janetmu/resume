@@ -7,7 +7,7 @@
 # Soy Janet Marulanda Usma
 
 
-### Desarrolladora de Software <br><br><br> 
+### Desarrolladora de Software :colombia: <br><br><br> 
 
 ## Sobre mi
 
