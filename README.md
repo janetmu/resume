@@ -78,7 +78,16 @@ Aplicación responsive para la administración de equipos y colaboradores de una
 ***Frontend:*** *Html - Css - React*  
 ***Otros:*** *Git - Github*
 
-[![Alt text](https://img.youtube.com/vi/_vjD_cAWkH4.jpg)](https://www.youtube.com/watch?v=_vjD_cAWkH4)
+[![Alt text](https://img.youtube.com/vi/Ya1xwSibBi8/0.jpg)](https://www.youtube.com/watch?v=Ya1xwSibBi8)
+
+
+
+**Portafolio Personal**  
+***Lenguaje:*** *JavaScript*  
+***Frontend:*** *Html - Css - React*  
+***Otros:*** *Git - Github*
+
+[![Alt text](https://img.youtube.com/vi/Vpt-XFSh_Yo/0.jpg)](https://www.youtube.com/watch?v=Vpt-XFSh_Yo)
 
 
 
