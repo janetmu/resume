@@ -5,11 +5,11 @@ A typical résumé contains a "summary" of relevant job experience and education
 
 # Hola 👋, Soy Janet Marulanda Usma
 
-## Desarrolladora de Software
+### Desarrolladora de Software
 
 
 
-### Sobre mi
+## Sobre mi
 
 En el año 2021, decidí dar un giro radical en mi carrera profesional. Dejé atrás los números y los registros contables para embarcarme en una emocionante nueva aventura: el mundo de la programación. Este cambio no solo representó una transformación personal, sino también una pasión renovada por la tecnología y su capacidad para impactar positivamente la vida de las personas, creando soluciones tecnológicas innovadoras y de calidad, que proporcionen herramientas y servicios que hagan sus vidas más cómodas, eficientes y productivas.
 
@@ -17,9 +17,9 @@ Mi punto fuerte radica en mi capacidad de adaptación. Me destaco por mi orienta
 
 
 
-### Tecnologías
+## Tecnologías
 
-Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, back-end y gestión de bases de datos.
+Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, back-end y gestión de bases de datos:
 
 <p> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>  
@@ -37,6 +37,16 @@ Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 </p>
+
+
+
+## Proyectos
+
+Durante mi formación académica he participado activamente en proyectos estudiantiles que han sido una oportunidad invaluable para aplicar mis conocimientos teóricos en un entorno práctico, desarrollar habilidades técnicas y de trabajo en equipo, y enfrentar desafíos reales de desarrollo de software. A través de estas experiencias, he adquirido una comprensión profunda de los procesos de desarrollo y he demostrado mi capacidad para trabajar de manera efectiva en equipo para lograr objetivos comunes. Estoy segura de que estas experiencias me han preparado adecuadamente para asumir roles en el mundo laboral y estoy emocionada por aplicar mis habilidades y conocimientos en un entorno profesional.
+
+
+
+
 
 
 
