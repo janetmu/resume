@@ -18,6 +18,8 @@ Mi punto fuerte radica en mi capacidad de adaptación. Me destaco por mi orienta
 ## Conectemos:
 
 <p>
+[:telephone_receiver:](tel:+573193990912)  
+[:envelope:](mailto:janetmaru.jm@gmail.com)  
 <a href="https://linkedin.com/in/janet-marulanda-usma-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janet-marulanda-usma-dev" height="30" width="40" /></a>
 <a href="https://fb.com/janetmu76" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janetmu76" height="30" width="40" /></a>
 <a href="https://instagram.com/janet_marulanda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janet_marulanda" height="30" width="40" /></a>
