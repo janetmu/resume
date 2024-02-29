@@ -50,7 +50,7 @@ Durante mi formación académica he participado activamente en proyectos estudia
 
 
 **Sistema de Gestión de Ingresos y Gastos**
-Aplicativo web para gestionar los ingresos y egresos de una empresa. Tiene dos perfiles (empleado y administrador), cada uno con diferentes funcionalidades.
+Aplicativo web para gestionar los ingresos y egresos de una empresa. Tiene dos perfiles (empleado y administrador), cada uno con diferentes funcionalidades.  
 ***Lenguaje:*** *Java*  
 ***Frontend:*** *Html - Bootstrap*  
 ***Backend:*** *Spring Boot - Postgres*  
@@ -62,13 +62,23 @@ Aplicativo web para gestionar los ingresos y egresos de una empresa. Tiene dos p
 
 
 **Tienda Virtual**
-Sistema de información que soporta la gestión de una tienda virtual o emprendimiento local y mejora sus procesos. Tiene dos perfiles (cliente y administrador), cada uno con diferentes funcionalidades.
+Sistema de información que soporta la gestión de una tienda virtual o emprendimiento local y mejora sus procesos. Tiene dos perfiles (cliente y administrador), cada uno con diferentes funcionalidades.  
 ***Lenguaje:*** *JavaScript*  
 ***Frontend:*** *Html - Css - React*  
 ***Backend:*** *Node - Express - MongoDB*  
 ***Otros:*** *Postman - Git - Github*
 
 [![Alt text](https://img.youtube.com/vi/7MG2gOEZmHI/0.jpg)](https://www.youtube.com/watch?v=7MG2gOEZmHI)
+
+
+
+**Organización de Equipos y Colaboradores**
+Aplicación responsive para la administración de equipos y colaboradores de una organización.  
+***Lenguaje:*** *JavaScript*  
+***Frontend:*** *Html - Css - React*  
+***Otros:*** *Git - Github*
+
+[![Alt text](https://img.youtube.com/vi/_vjD_cAWkH4.jpg)](https://www.youtube.com/watch?v=_vjD_cAWkH4)
 
 
 
