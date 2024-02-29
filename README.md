@@ -39,13 +39,24 @@ Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, 
 </p>
 
 
-[![Alt text](https://img.youtube.com/vi/n4saBrxfiOE/0.jpg)](https://www.youtube.com/watch?v=n4saBrxfiOE)
+
 
 
 
 ## Proyectos
 
 Durante mi formación académica he participado activamente en proyectos estudiantiles que han sido una oportunidad invaluable para aplicar mis conocimientos teóricos en un entorno práctico, desarrollar habilidades técnicas y de trabajo en equipo, y enfrentar desafíos reales de desarrollo de software. A través de estas experiencias, he adquirido una comprensión profunda de los procesos de desarrollo y he demostrado mi capacidad para trabajar de manera efectiva en equipo para lograr objetivos comunes. Estoy segura de que estas experiencias me han preparado adecuadamente para asumir roles en el mundo laboral y estoy emocionada por aplicar mis habilidades y conocimientos en un entorno profesional.
+
+
+
+**Tienda Virtual**
+Sistema de información que soporta la gestión de una tienda virtual o emprendimiento local y mejora sus procesos. Tiene dos perfiles (cliente y administrador), cada uno con diferentes funcionalidades.
+***Lenguaje:*** *JavaScript*
+***Frontend:*** *Html - Css - React*
+***Backend:*** *Node - Express - MongoDB*
+***Otros:*** *Postman - Git - Github*
+
+[![Alt text](https://img.youtube.com/vi/n4saBrxfiOE/0.jpg)](https://www.youtube.com/watch?v=n4saBrxfiOE)
 
 
 
