@@ -39,6 +39,9 @@ Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, 
 </p>
 
 
+[![Alt text](https://img.youtube.com/vi/n4saBrxfiOE/0.jpg)](https://www.youtube.com/watch?v=n4saBrxfiOE)
+
+
 
 ## Proyectos
 
