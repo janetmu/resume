@@ -18,13 +18,13 @@ Mi punto fuerte radica en mi capacidad de adaptación. Me destaco por mi orienta
 ## Conectemos:
 
 <p>
-[Pulsar para llamar](tel:+573193990912)  
-[Enviar correo electrónico](mailto:janetmaru.jm@gmail.com)  
-
+:telephone_receiver: <a href="tel:+573193990912">+573193990912</a> <br>  
+:e-mail: <a href="mailto:janetmaru.jm@gmail.com">janetmaru.jm@gmail.com</a>  
+  
 <a href="https://linkedin.com/in/janet-marulanda-usma-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janet-marulanda-usma-dev" height="30" width="40" /></a>
 <a href="https://fb.com/janetmu76" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janetmu76" height="30" width="40" /></a>
 <a href="https://instagram.com/janet_marulanda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janet_marulanda" height="30" width="40" /></a>
-</p> <br><br><br>
+</p> <br><br>
 
 ## Tecnologías:
 
@@ -45,7 +45,7 @@ Mi trayectoria educativa me ha brindado bases sólidas en desarrollo front-end, 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p> <br><br><br>
+</p> <br><br>
 
 ## Proyectos:
 
