@@ -23,8 +23,6 @@ Mi punto fuerte radica en mi capacidad de adaptación. Me destaco por mi orienta
 <a href="https://instagram.com/janet_marulanda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janet_marulanda" height="30" width="40" /></a> <br>
 :telephone_receiver: <a href="tel:+573193990912">+573193990912</a> <br>  
 :e-mail: <a href="mailto:janetmaru.jm@gmail.com">janetmaru.jm@gmail.com</a>  
-  
-
 </p> <br><br>
 
 ## Tecnologías:
