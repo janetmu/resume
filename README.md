@@ -19,8 +19,11 @@ Mi punto fuerte radica en mi capacidad de adaptación. Me destaco por mi orienta
 
 <p>
 :telephone_receiver: <a href="tel:+573193990912">+573193990912</a> <br>  
-:e-mail: <a href="mailto:janetmaru.jm@gmail.com">janetmaru.jm@gmail.com</a>  
-  
+:e-mail: <a href="mailto:janetmaru.jm@gmail.com">janetmaru.jm@gmail.com</a> <br>  
+
+<a href="https://api.whatsapp.com/send?phone=+573015723929&text=Hola%20Janet,%20vengo%20de%20tu%20perfil%20de%GITHUB" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/janetmu/resume/assets/110951352/950e567c-b87e-4650-8f4d-fb230ca3a11f" alt="WhatsApp">
+</a>  
 <a href="https://linkedin.com/in/janet-marulanda-usma-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janet-marulanda-usma-dev" height="30" width="40" /></a>
 <a href="https://fb.com/janetmu76" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janetmu76" height="30" width="40" /></a>
 <a href="https://instagram.com/janet_marulanda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janet_marulanda" height="30" width="40" /></a>
